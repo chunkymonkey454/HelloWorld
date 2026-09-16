@@ -13,6 +13,7 @@ public class BooleanVariable {
     boolean isEven= num % 2 == 0;
         System.out.println("Is " + num + " an odd number " + isOdd);
         System.out.println("Is "+num+" an even number "+isEven);
+        //pooop
     }
 
 }
