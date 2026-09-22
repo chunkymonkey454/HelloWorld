@@ -11,7 +11,7 @@ boolean isEven = num % 2 ==0;
 
         System.out.println("Is " +num + " an odd number " + isOdd);
         System.out.println("Is "+num+" an even number "+isEven);
-        System.out.println("The number is 15 is odd");
+        System.out.println("The number 15 is odd");
 
 
     }
