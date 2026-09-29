@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/birthMonth.iml" filepath="$PROJECT_DIR$/birthMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartyAffiliation.iml" filepath="$PROJECT_DIR$/PartyAffiliation.iml" />
     </modules>
   </component>
 </project>
