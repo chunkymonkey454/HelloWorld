@@ -5,23 +5,21 @@ public class birthMonth {
         Scanner in = new Scanner(System.in);
 
         boolean done = false; //control variable
-        do{
+        do {
             System.out.println("Enter your birthmonth by number");
-            if (birthMonth >=1 && birthMonth <=12){
+            if (birthMonth >= 1 && birthMonth <= 12) {
                 birthMonth = in.nextInt();
                 done = true;
-            }
-            else {
+            } else {
                 String thrash = in.nextLine();
                 System.out.println("You must enter a proper integer between 1 and 12, not " + thrash);
 
 
-            }git push origin <your-branch-name>
-
-        }while (!done);
+            }
+            while (!done) ;
+        }
     }
+
 }
-
-
 
 
